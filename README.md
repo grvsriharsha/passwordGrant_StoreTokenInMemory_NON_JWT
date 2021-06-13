@@ -1,4 +1,4 @@
-# Password__inmemory_oauth
+# passwordGrant_Inmemory_oauth
 
 First run the sql files in sql folder.
 
