@@ -1,4 +1,4 @@
-# SpringBootRules_Mycouponservice
+# Password__inmemory_oauth
 
 First run the sql files in sql folder.
 
