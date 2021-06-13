@@ -10,3 +10,5 @@ Now we configure the websecurity adapter so that
  2. Both Admins and users can use GET
  
  User Logs in with email and pasword
+
+With UserRoles being configured,we want to enable to use Authorization,Resource servers so that user logins in the front end(react) with credentials ,the front end hits backend to genrate the token and uses that token further to communicate with backend instaed of frontend sending the credentilas of the user to the backends everytime
